@@ -1,0 +1,15 @@
+# Flutter and Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# IDE
+.idea/
+.vscode/
+
+# Generated platform files
+android/.gradle/
+ios/Pods/
+macos/Flutter/ephemeral/
