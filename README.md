@@ -6,11 +6,11 @@ Aplicativo Flutter demonstrativo para compartilhar, trocar e encontrar alimentos
 
 ### Explorar
 
-![Tela de exploração do ShareBite](docs/screenshots/explorar.png)
+![Tela de exploração do ShareBite](home_print.png)
 
 ### Perfil
 
-![Tela de perfil do ShareBite](docs/screenshots/perfil.png)
+![Tela de perfil do ShareBite](user_print.png)
 
 ## Tecnologias
 
