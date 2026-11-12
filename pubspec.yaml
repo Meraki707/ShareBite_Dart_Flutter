@@ -1,0 +1,28 @@
+name: sharebite
+description: Comunidade para compartilhar, trocar e encontrar itens no bairro.
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^14.0.2
+  google_fonts: ^6.2.1
+  image_picker: ^1.1.2
+  path: ^1.9.1
+  sqflite: ^2.4.6
+  sqflite_common_ffi_web: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - image_1790257283284270-removebg-preview.png
+    - image_1790257467990506-removebg-preview.png
